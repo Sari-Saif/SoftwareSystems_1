@@ -43,9 +43,7 @@ Will be realized with the help of recursion
 
 
 # Main plan :
-program that will receive from the user 2 positive integers you must print to the screen 4 lines which
-Will contain all the first numbers, Armstrong numbers, strong numbers and the Flanders which are between the two numbers
-Received) including the numbers themselves (.
-Do not print any additional output other than what you requested. You must be fully compliant with the input and output samples
-That you will receive.
+program that will receive from the user 2 positive integers , that print to the screen 4 lines which
+will contain all the first numbers, Armstrong numbers, strong numbers and the Flanders which are between the two numbers
+Received including the numbers themselves.
 
