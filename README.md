@@ -31,11 +31,11 @@ number.
 
 
  # The implementations of the functions  written in 3 different files:
-1. The first c.basicClassification file that will contain the implementations of the isStrong, isPrime functions
+1. The first basicClassification.c file that contain the implementations of the isStrong, isPrime functions
 
-2. advancedClassificationLoop.c that will contain the implementations of isPalindrome, isArmstrong functions that will be implemented
+2. advancedClassificationLoop.c that contain the implementations of isPalindrome, isArmstrong functions that will be implemented
 Using loops
 
-3. advancedClassificationRecursion.c that will contain the functions of the isPalindrome, isArmstrong functions which
+3. advancedClassificationRecursion.c that contain the functions of the isPalindrome, isArmstrong functions which
 Will be realized with the help of recursion
 
