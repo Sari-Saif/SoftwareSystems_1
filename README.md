@@ -1,11 +1,5 @@
 # SoftwareSystems_1
 
-first tiime i code with c language :) ...
-
-my program :
-
-
-
 NumClass Library:
 
 a directory that exposes the user to several functions for classifying numbers , The functions will be defined in the file:
