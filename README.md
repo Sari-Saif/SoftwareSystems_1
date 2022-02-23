@@ -42,7 +42,7 @@ Will be realized with the help of recursion
 
 
 
-# Main plan :
+  # Main plan :
 program that will receive from the user 2 positive integers , that print to the screen 4 lines which
 will contain all the first numbers, Armstrong numbers, strong numbers and the Flanders which are between the two numbers
 Received including the numbers themselves.
